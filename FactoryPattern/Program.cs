@@ -30,7 +30,7 @@
             Thread.Sleep(1000);
             Console.Clear();
 
-            Console.WriteLine($"That is as fine a looking {weapon} as I've ever made. \n" +
+            Console.WriteLine($"That is as fine a looking {weaponChoice} as I've ever made. \n" +
                 $"\n" +
                 $"Weild it well, adventurer.");
         }
